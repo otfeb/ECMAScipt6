@@ -1,0 +1,10 @@
+console.log("hello");
+console.log("안녕 node js 테스트 중이야");
+var n=10;
+console.log("결과는 %d 입니다",n);
+console.log("결과는 "+n+" 입니다");
+var msg="happy day";
+console.log("메세지: "+msg+"!!!");
+console.log("메세지 %s!!!",msg);
+var j={"irum":"김영환"};
+console.log("json 출력: %j",j);
